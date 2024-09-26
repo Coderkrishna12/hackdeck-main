@@ -1,0 +1,97 @@
+Problem Statement 1:
+
+Unified Wellness Ecosystem for Personalized Health Management
+
+Design and develop a web or mobile application that serves as a unified wellness platform, integrating multiple aspects of health and wellness (physical, mental, and social). This platform should use personalized data and Al-driven insights to offer tailored health recommendations, resources, and social features, aiming to improve the user's overall well-being. The challenge is to provide a seamless, data-driven experience that not only tracks traditional health metrics but also includes social and mental well-being indicators to create a holistic approach to wellness.
+
+Bonus Points:
+
+1. Data Privacy & Security: Strong focus on data encryption and privacy measures (e.g., compliance with HIPAA, GDPR, etc.).
+
+2. Predictive Analytics for Chronic Disease Management: Extra points if the platform can analyze user data to give predictive insights into potential chronic health risks (diabetes, heart disease) and suggest preventive measures.
+
+3. Wearable and IoT Integration: Support for advanced loT devices like smart home assistants, smart mirrors, or posture-correcting devices.
+
+4. Al-Powered Chatbot for Health Assistance: Include a conversational Al that can provide health advice, suggest exercises, or schedule reminders based on user interaction.
+
+5. Emergency Assistance Integration: Feature for quick access to emergency contacts or healthcare providers in case of critical health warnings. This problem encourages participants to think beyond just fitness apps and develop a holistic solution that touches upon various facets of well-being
+
+Features:
+
+1. Personalized Health Dashboard: - Display real-time metrics (e.g., heart rate, sleep, activity) integrated from wearables (smartwatches, fitness bands). - Customized insights based on user data (age, gender, medical history, goals).
+
+2. Mental Health Tracker: Mood tracking with Al-driven suggestions based on patterns (e.g., specific moods tied to sleep patterns or social activity). - Integration with meditation apps or stress-relief exercises.
+
+3. Social Well-being Insights: Ability to connect with friends/family and track shared wellness goals. - Suggest community activities like group workouts, walking challenges, etc.
+
+4. Personalized Recommendations: - Nutritional recommendations based on user's dietary preferences and restrictions. Sleep improvement tips using Al to analyze sleep data patterns. - Custom workout plans based on activity data.
+
+5. Medical Integration: Space for medical history storage, medication reminders, and routine checkup alerts. Doctor/therapist integration to sync with healthcare
+
+providers for remote monitoring.
+
+
+Problem Statement 2:
+
+Crowdsourced Safety Map for Urban Areas
+
+Develop a web or mobile application that allows users to crowdsource and visualize real-time safety information about different areas of a city. This app will help users make informed decisions about travel routes and destinations based on the safety ratings, incidents, and user-reported data.
+
+::
+
+Bonus Points:
+
+1. Data Privacy & Security: Strong focus on data encryption and privacy measures (e.g., compliance with HIPAA, GDPR, etc.).
+
+2. Predictive Analytics for Chronic Disease Management: Extra points if the platform can analyze user data to give predictive insights into potential chronic health risks (diabetes, heart disease) and suggest preventive measures.
+
+3. Wearable and IoT Integration: Support for advanced loT devices like smart home assistants, smart mirrors, or posture-correcting devices.
+
+4. Al-Powered Chatbot for Health Assistance: Include a conversational Al that can provide health advice, suggest exercises, or schedule reminders based on user interaction.
+
+5. Emergency Assistance Integration: Feature for quick access to emergency contacts or healthcare providers in case of critical health warnings. This problem encourages participants to think beyond just fitness apps and develop a holistic solution that touches upon various facets of well-bein
+
+
+Features:
+
+1. Crowdsourced Incident Reporting: - Users can report safety incidents in real-time, such as theft, accidents, harassment, or suspicious activity, by pinning them on a map. - Incident categories (e.g., crime, accidents, disturbances) with severity levels. - Option to upload photos or videos for better documentation of incidents.
+
+2. Safety Heatmap: --A dynamic heatmap that shows the safety rating of different areas based on user reports, historical data, and time of day. - A color-coded map to visualize high-risk areas versus safer zones.
+
+3. Route Safety Score: A feature that allows users to check the safety rating of different travel routes (walking, driving, public transit) and get route recommendations based on safety. - Alerts for users when they are near a recently reported unsafe area.
+
+4. Incident History & Trends: View historical data to see safety trends over time in specific neighborhoods. - Users can see what types of incidents are most common in different areas (e.g., vehicle theft, pickpocketing, etc.).
+
+5. Community Verification & Feedback: - Users can verify incidents posted by others by adding comments or voting on their validity. Option to provide community
+
+feedback on the safety of a particular location (e.g., good lighting, high police
+
+presence, or crowdedness)
+
+Problem Statement 3:
+
+Event Buddy: Collaborative Event Planning & Execution Platform
+
+Develop a web or mobile application that allows groups to collaboratively plan, organize, and execute events seamlessly. The app should provide a platform for group decision-making, task assignment, budget tracking, and real-time updates, enabling users to stay on top of every aspect of the event without chaos.
+
+Bonus Points:
+
+1. Integration with Social Media: Allow the event planner to create a "media hub" where attendees can upload photos and videos of the event, or live-stream the event for others to watch.
+
+2. Customizable Templates: Provide customizable templates for common event types (e.g., conferences, weddings) to reduce the setup time.
+
+3. Multilingual Support: Bonus points for implementing support for multiple languages to accommodate global event planning teams.
+
+4. Offline Mode: Bonus for offering offline access for users to view and update the event timeline or task list without needing an internet connection, which is crucial during the event
+
+Features:
+
+1. Collaborative Event Planning: Users can create event types (e.g., wedding, birthday, corporate event, college fest). Invite other users to collaborate and contribute to the event planning. Shared calendar with reminders for all team members about upcoming tasks and deadlines.
+
+2. Task Assignment & Progress Tracking: - A task manager to assign responsibilities (e.g., venue booking, catering, invitations). - Real-time updates for when tasks are completed or require attention. - Color-coded task status indicators (e.g., pending, in-progress, completed).
+
+3. Budget Management: Feature to set an event budget and track expenses in real-time. Expense breakdown with categories (e.g., decorations, food, entertainment). Group payment tracking-record who paid for what and who owes money.
+
+4. Vendor Management: - A directory where users can save and manage contacts of vendors (e.g., florists, caterers, DJs). - Rate and review vendors after the event for future reference.
+
+5. Real-Time Updates & Messaging: - A chat platform within the app for all members involved in the planning process. Notification system for new tasks, changes in deadlines, or task completion.
