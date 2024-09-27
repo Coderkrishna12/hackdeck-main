@@ -1,0 +1,43 @@
+/* Header.css */
+.navbar {
+    background-color: #f8f9fa; /* Light background color for the navbar */
+    padding: 0.5rem 1rem; /* Add some padding */
+}
+
+.navbar-brand {
+    font-size: 1.5rem; /* Brand font size */
+    font-weight: bold; /* Bold brand text */
+    color: #000; /* Brand text color */
+}
+
+.nav-link {
+    color: #007bff; /* Link color */
+    font-weight: 500; /* Medium font weight for links */
+}
+
+.nav-link:hover {
+    color: #0056b3; /* Darker shade on hover */
+}
+
+.dropdown-menu {
+    min-width: 160px; /* Minimum width for dropdowns */
+}
+
+.form-control {
+    width: 200px; /* Fixed width for the search input */
+    margin-right: 1rem; /* Space between input and button */
+}
+
+.btn-outline-success {
+    margin-left: 0.5rem; /* Space between buttons */
+}
+
+@media (max-width: 768px) {
+    .navbar {
+        padding: 0.5rem 0; /* Reduce padding on smaller screens */
+    }
+    .form-control {
+        width: 100%; /* Full width on small screens */
+        margin: 0; /* Remove margin */
+    }
+}
